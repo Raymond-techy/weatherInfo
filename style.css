@@ -13,4 +13,5 @@ body {
   width: 100px;
   margin-bottom: -50px;
   border: greenyellow 2px solid;
+  box-shadow: 0 0 0 10px #4fc3dc44;
 }
